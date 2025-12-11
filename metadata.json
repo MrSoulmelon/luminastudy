@@ -1,0 +1,5 @@
+{
+  "name": "LuminaStudy - AI Personalized Planner",
+  "description": "A high-performance study planning application that uses Gemini AI to transform your syllabus into a personalized, actionable study roadmap with daily schedules and spaced repetition trackers.",
+  "requestFramePermissions": []
+}
